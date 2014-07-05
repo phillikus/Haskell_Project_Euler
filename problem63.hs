@@ -1,0 +1,1 @@
+problem_63=length[x^y|x<-[1..9],y<-[1..22],y==(length$show$x^y)]
